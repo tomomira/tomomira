@@ -11,6 +11,7 @@
 
 ## ⭐ Featured Projects
 
+- 🚀 [FX_Margin_Simulator](https://github.com/tomomira/FX_Margin_Simulator) — MXN/JPY 長期スワップ運用の証拠金維持率・切断プランシミュレータ（Python / Streamlit）
 - 🤖 [prompt_generator](https://github.com/tomomira/prompt_generator) — 各 LLM に適したプロンプトを生成するツール
 - 🔍 [google-research](https://github.com/tomomira/google-research) — Google 検索結果を Excel に自動整理
 - 📄 [pdf_processor](https://github.com/tomomira/pdf_processor) — PDF のテキスト化・画像化
